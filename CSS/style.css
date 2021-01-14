@@ -10,6 +10,33 @@
 .card img{
     background-color: #F1F1F1;
     border-radius: 20px;
-    width: 100%;
+    width: 90%;
     height: 60%;
+    margin: 4%;
+}
+.card-item{
+    border-radius: 20px;
+    border: 1px solid red;
+}
+.Support-card img{
+    width: 50%;
+    
+}
+.support-card-img{
+    align-items: center;
+}
+.Support-card-cover img{
+    width: 100%;
+}
+.card-shadow{
+    box-shadow: 4px 5px 8px 1px #cecbcb;
+}
+.address-bar i{
+    color: #A4BC46;
+}
+.address-bar span{
+    font-size: 20px;
+}
+.address-bar-section{
+    background-color: #F1F1F1;
 }
